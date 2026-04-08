@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758644596645",
+    "project_id": "colocapp-feab5",
+    "storage_bucket": "colocapp-feab5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758644596645:android:f735f1febc716a0a5a924c",
+        "android_client_info": {
+          "package_name": "com.example.devmob_coloc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAED00mWVz1T2WQ9DkCe-oi0WArPckVDOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
